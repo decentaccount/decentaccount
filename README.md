@@ -1,6 +1,6 @@
-**Jin** - (GMT+11)
+**decentaccount** a.k.a. ***"Jin"***
 <br>
-Wannabe coder
+(GMT+11)
 <br>
 I will make this look nice eventually
 <br>
