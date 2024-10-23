@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @decentaccount
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...Ok
+**Jin** - (GMT+11)
+<br>
+Wannabe coder
+<br>
+I will make this look nice eventually
+<br>
+![cool and awesome image of cat giving you a thumbs up](https://github.com/user-attachments/assets/0aeb8acb-970e-486d-a796-2871526bbd0c)
+
 
 <!---
 decentaccount/decentaccount is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
