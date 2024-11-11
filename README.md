@@ -1,4 +1,4 @@
-**decentaccount** a.k.a. ***"Jin"***
+**Jin** a.k.a. **@decentaccount**
 <br>
 (GMT+11)
 <br>
